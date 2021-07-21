@@ -1,1 +1,1 @@
-# HENverse
+# tezos-verse
